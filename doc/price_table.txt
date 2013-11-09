@@ -1,0 +1,103 @@
+ZenAppointments
+===============
+
+Hairdressers
+Doctors
+Beauty Salons
+Consultants
+Photographers
+Dentists
+Masseurs
+Lawyers
+Stylists
+Vets
+
+- Competition
+	reservio.com
+
+ZenAppointments Price Table
+---------------------------
+
+Features
+--------
+	- Single user
+	- Multi user
+	- Partitioned multi user.
+		- single secretary, multi walled garden users
+	- Number of employees
+	- Reports
+	- Billing
+	- Customers can book themselves
+	- Customer Auto Reminder by Email
+	- Customer Auto Reminder by SMS
+	- Customer Auto Reminder by Robocall
+	- Web or Mobil acess
+
+* Basic
+	- Single User
+	- 0 Employees
+	- Unlimited Clients
+	- Unlimited Appointments
+	- Simple Reports
+	- No Billing
+	- No Auto Reminders
+	- Web Only
+	PRICE: 9.95/month
+			X/year
+
+* Solo
+	- Single User
+	- 0 Employees
+	- Unlimited Clients
+	- Unlimited Appointments
+	- All Reports
+	- Billing
+	- Customer Auto Reminder by Email
+	- Web/Mobile
+	PRICE: 29.95/month
+		X/year
+
+* Small Office
+	- Multi User
+	- 10 Employees
+	- Unlimited Clients
+	- Unlimited Appointments
+	- All Reports
+	- Billing
+	- Auto Reminders
+	- Customer Auto Reminder by Email
+	- Customer Auto Reminder by SMS
+	- Web/Mobile
+	PRICE: 79.95/month
+			X/year
+
+* Big Office
+	- Multi User
+	- Unlimited  Employees
+	- Unlimited Clients
+	- Unlimited Appointments
+	- All Reports
+	- Billing
+	- Auto Reminders
+	- Customer Auto Reminder by Email
+	- Customer Auto Reminder by SMS
+	- Customer Auto Reminder by Robocall
+	- Web/Mobile
+	PRICE: 259.95/month
+			X/year
+
+* Multi Office
+	- Partitioned multi user.
+	- Unlimited  Employees
+	- Unlimited Clients
+	- Unlimited Appointments
+	- All Reports
+	- Billing
+	- Auto Reminders
+	- Customer Auto Reminder by Email
+	- Customer Auto Reminder by SMS
+	- Customer Auto Reminder by Robocall
+	- Web/Mobile
+	PRICE: 89.95/month per user
+			X/year per user
+
